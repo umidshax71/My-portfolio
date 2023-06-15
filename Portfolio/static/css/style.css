@@ -386,9 +386,9 @@ section {
 }
 
 .facts .count-box {
-  padding: 30px;
-  width: 100%;
-  margin-left: 10rem;
+  padding: 50px;
+  width: 100rem;
+  margin-left: 1rem;
 }
 
 .facts .count-box i {
